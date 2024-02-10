@@ -1,1 +1,1 @@
-web: gunicorn djangalang.djangalang.wsgi:application
+web: gunicorn djangalang.wsgi:application

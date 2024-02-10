@@ -1,0 +1,1 @@
+web: gunicorn djangalang.djangalang.wsgi:application
